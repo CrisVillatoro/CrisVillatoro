@@ -3,10 +3,10 @@ I'm a Chemical-Environmental Engineer turned Data Scientist, with work experienc
 
 While I enjoy working with all types of data, I have a particular passion for data visualization, which I find to be a powerful tool for communicating insights and inspiring action. 📈🌍 When I'm not diving into data, I enjoy exploring nature 🍃 and running. 
 
-Let's connect and discuss how data can help us tackle complex challenges and create positive change! 
+ I am eager to apply my expertise in data science to contribute to innovative and sustainable solutions for today's challenges. Let's connect and discuss how data can help us to create a positive change! 
 
 - 🔭 I’m currently working on a OMDENA project as a volunteer: Precision Millet Farming-Leveraging Geospatial Technology to Optimize Crop Selection and Yield
-- ⚗️ I’m currently learning SQL and more Python!
+- ⚗️ I’m currently learning SQL, Cloud Computing and of course more Python!
 
 <!--
 **CrisVillatoro/CrisVillatoro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
