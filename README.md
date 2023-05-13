@@ -7,7 +7,7 @@ While I enjoy working with all types of data, I have a particular passion for da
 
 - 🔭 I’m currently working on a OMDENA project as a volunteer: Precision Millet Farming-Leveraging Geospatial Technology to Optimize Crop Selection and Yield
 - ⚗️ I’m currently learning SQL, Cloud Computing and of course more Python!
-
+##Open to Work! Currently looking for a position 🙌🏽
 <!--
 **CrisVillatoro/CrisVillatoro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
