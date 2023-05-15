@@ -5,7 +5,7 @@ While I enjoy working with all types of data, I have a particular passion for da
 
  I am eager to apply my expertise in data science to contribute to innovative and sustainable solutions for today's challenges. Let's connect and discuss how data can help us to create a positive change! 
 
-- 🔭 I’m currently working on a OMDENA project as a volunteer: Precision Millet Farming-Leveraging Geospatial Technology to Optimize Crop Selection and Yield
+- 🔭 I’m currently working on a Omdena project as a volunteer: Precision Millet Farming-Leveraging Geospatial Technology to Optimize Crop Selection and Yield
 - ⚗️ I’m currently learning SQL, Cloud Computing and of course more Python!
 - 
 #### Open to Work! Currently looking for a position 🙌🏽
