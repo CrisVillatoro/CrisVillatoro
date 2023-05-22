@@ -1,12 +1,13 @@
 ### Hi there 👋
 I'm a Chemical-Environmental Engineer, with work experience in industry, research, and the public sector. My love for data and abilities with statistics made me decide to turn into a data scientist, and I recently completed a data science bootcamp to sharpen my skills. 
 
-While I enjoy working with all types of data, I have a particular passion for Python, SQL, Machine Learning and specially for data visualization, which I find to be a powerful tool for communicating insights and inspiring action 📈🌍 When I'm not diving into data, I enjoy exploring nature 🍃 and running. 
-
- I am eager to apply my expertise in data science to contribute to innovative and sustainable solutions for today's challenges. Let's connect and discuss how data can help us to create a positive change! 
+While I enjoy working with all types of data, I have a particular passion for Python, SQL, Machine Learning and specially for data visualization, which I find to be a powerful tool for communicating insights and inspiring action 📈🌍 
+I am eager to apply my expertise in data science to contribute to innovative and sustainable solutions for today's challenges. Let's connect and discuss how data can help us to create a positive change! 
 
 - 🔭 I’m currently working on an Omdena project as a volunteer: Precision Millet Farming-Leveraging Geospatial Technology to Optimize Crop Selection and Yield
 - ⚗️ I’m currently learning SQL, Cloud Computing and of course more Python!
+
+When I'm not immersed in data, you can find me exploring the wonders of nature 🍃 and staying active through running 🏃‍♀️  I believe that maintaining a balanced and healthy lifestyle fuels creativity and enhances productivity in all aspects of life.
 
 #### Open to Work! Currently looking for a position 🙌🏽
 <!--
