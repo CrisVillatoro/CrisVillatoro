@@ -4,8 +4,12 @@ I'm a Chemical-Environmental Engineer, with work experience in industry, researc
 While I enjoy working with all types of data, I have a particular passion for Python, SQL, Machine Learning and specially for data visualization, which I find to be a powerful tool for communicating insights and inspiring action 📈🌍 
 I am eager to apply my expertise in data science to contribute to innovative and sustainable solutions for today's challenges. Let's connect and discuss how data can help us to create a positive change! 
 
-- 🔭 I’m currently working on an Omdena project as a volunteer: Precision Millet Farming-Leveraging Geospatial Technology to Optimize Crop Selection and Yield
-- ⚗️ I’m currently learning SQL, Cloud Computing and of course more Python!
+⚡ Currently I work as a Data and Business Analyst at CIMPA - Hamburg, Germany. 
+
+✨ From May to July 2023 I was task leader and collaborator of an Omdena project as a volunteer.
+Project: Precision Millet Farming-Leveraging Geospatial Technology to Optimize Crop Selection and Yield
+
+🔭 I’m currently learning SQL, Cloud Computing and of course more Python!
 
 When I'm not immersed in data, you can find me exploring the wonders of nature 🍃 and staying active through running 🏃‍♀️  I believe that maintaining a balanced and healthy lifestyle fuels creativity and enhances productivity in all aspects of life.
 
