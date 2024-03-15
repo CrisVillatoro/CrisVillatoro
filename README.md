@@ -11,9 +11,6 @@ Project: Precision Millet Farming-Leveraging Geospatial Technology to Optimize C
 
 🔭 I’m currently learning SQL, Cloud Computing and of course more Python!
 
-When I'm not immersed in data, you can find me exploring the wonders of nature 🍃 and staying active through running 🏃‍♀️  I believe that maintaining a balanced and healthy lifestyle fuels creativity and enhances productivity in all aspects of life.
-
-#### Open to Work! Currently looking for a position 🙌🏽
 <!--
 **CrisVillatoro/CrisVillatoro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
