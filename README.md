@@ -12,7 +12,7 @@ I developed a Python-based web scraper for Request for Proposals (RFPs), designe
 ✨ From May to July 2023 I was task leader and collaborator of an Omdena project as a volunteer.
 Project: Precision Millet Farming-Leveraging Geospatial Technology to Optimize Crop Selection and Yield
 
-🔭 I’m currently learning SQL, Cloud Computing and of course more Python!
+🔭 I’m currently learning Generative AI, SQL, Cloud Computing and of course more Python!
 
 <!--
 **CrisVillatoro/CrisVillatoro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
