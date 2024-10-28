@@ -4,6 +4,7 @@ I'm a Chemical-Environmental Engineer, with work experience in industry, researc
 While I enjoy working with all types of data, I have a particular passion for Python, SQL, Machine Learning and specially for data visualization, which I find to be a powerful tool for communicating insights and inspiring action 📈🌍 
 
 ⚡ Currently I work as a Data and Business Analyst at CIMPA - Hamburg, Germany. I specialize in implementing the Airbus Operation System (AOS) and 5S methodology at the Airbus site in Hamburg. My focus is on the new hangar for the A321XLR airplane line, where I work in the digitalization efforts for related processes, ensuring streamlined and efficient operations.
+
 💡 Recent Project:
 I developed a Python-based web scraper for Request for Proposals (RFPs), designed to automatically search relevant websites for RFP postings. This project also includes a Streamlit app that allows users to subscribe to selected websites and receive email notifications when a relevant RFP is found. The app integrates automated notifications, making it easier for users to stay updated on opportunities.
 
