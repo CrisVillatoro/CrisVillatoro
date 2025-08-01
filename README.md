@@ -8,11 +8,11 @@ While I enjoy working with all types of data, I have a particular passion for Py
 
 💡 Recent Projects:
 
-	•	Developed a Python-based web scraper for Request for Proposals (RFPs), integrated with a Streamlit app for website subscription and automated email alerts.
+1. Developed a Python-based web scraper for Request for Proposals (RFPs), integrated with a Streamlit app for website subscription and automated email alerts.
  
-	•	Participated in Urban Green Space Segmentation with U-Net – an Omdena Frankfurt project using satellite imagery and deep learning to map green spaces and promote urban sustainability.
+2. Participated in Urban Green Space Segmentation with U-Net – an Omdena Frankfurt project using satellite imagery and deep learning to map green spaces and promote urban sustainability.
  
-	•	Task Leader and Collaborator (May–July 2023) in an Omdena project on Precision Millet Farming, leveraging geospatial technology to optimize crop selection and yield.
+3. Task Leader and Collaborator (May–July 2023) in an Omdena project on Precision Millet Farming, leveraging geospatial technology to optimize crop selection and yield.
 
 🔭 I’m currently learning Generative AI, SQL, Cloud Computing, and of course, more Python!
 <!--
