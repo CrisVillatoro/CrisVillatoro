@@ -1,31 +1,55 @@
-### Hi there 👋
+## Hi there 👋
 
-I’m a Chemical-Environmental Engineer with experience in industry, research, and the public sector. My love for data and skills in statistics led me to transition into data science, and I completed a data science bootcamp to sharpen my technical abilities.
+I’m an AI & Data professional with an engineering background, currently working at the intersection of data, AI, and real-world applications in industrial environments.
+My journey started in Chemical & Environmental Engineering and evolved into Data Science — but today, my focus is on building practical AI systems that solve real problems, not just analyzing data.
 
-While I enjoy working with all types of data, I have a particular passion for Python, SQL, Machine Learning, and especially data visualization, which I find to be a powerful tool for communicating insights and inspiring action 📈🌍
+## What I do now
+I currently work at CIMPA (Airbus projects), where I design and implement data-driven and AI-enabled solutions in complex enterprise environments.
 
-⚡ Currently, I work as a Data and Business Analyst at CIMPA – Hamburg, Germany. I specialize in implementing the Airbus Operation System (AOS) and 5S methodology at the Airbus site in Hamburg. My focus is on the new hangar for the A321XLR airplane line, where I support digitalization efforts to ensure streamlined and efficient operations.
+Recently, my work has focused on:
+- Designing and implementing a production-ready Data Governance Framework for the EBAM platform (Palantir), including automated governance logic and real-time monitoring
+- Building data pipelines, dashboards, and analytics systems to improve data quality, usage, and decision-making
+- Applying Generative AI to enhance metadata quality, guide users, and automate governance processes
+- Developing governance-ready insights and preparing migration strategies to Skywise, including future AI-driven governance approaches
 
-💡 Recent Projects:
+My role sits at the intersection of:
+Data engineering
+Analytics
+AI applications
+and business impact
 
-1. Developed a Python-based web scraper for Request for Proposals (RFPs), integrated with a Streamlit app for website subscription and automated email alerts.
- 
-2. Participated in Urban Green Space Segmentation with U-Net – an Omdena Frankfurt project using satellite imagery and deep learning to map green spaces and promote urban sustainability.
- 
-3. Task Leader and Collaborator (May–July 2023) in an Omdena project on Precision Millet Farming, leveraging geospatial technology to optimize crop selection and yield.
+## AI & Engineering Focus
+I’m particularly interested in Generative AI, LLMs, and agentic systems, and I actively build applications to explore how these technologies can be used in real-world scenarios.
 
-🔭 I’m currently learning Generative AI, SQL, Cloud Computing, and of course, more Python!
-<!--
-**CrisVillatoro/CrisVillatoro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Highlighted Projects
+## RFP Agent (Production Application)
+AI-driven system to automate the discovery, analysis, and evaluation of Request for Proposals.
+Multi-tool pipeline: web scraping (Selenium, BeautifulSoup), document retrieval (Azure AI Search), and LLM-based analysis (AWS Bedrock)
+Built with Python (FastAPI + Reflex) and deployed with cloud services
+Supports summarization, bid/no-bid decision workflows, and automated notifications
+Designed as a scalable, production-ready system with real business impact
 
-Here are some ideas to get you started:
+## Omdena Projects
+Urban Green Space Segmentation (U-Net, satellite imagery)
+Precision Agriculture (geospatial + ML)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Tech I work with
+Languages & Tools
+Python · SQL · JavaScript · HTML · CSS
+
+AI & Data
+LLMs · Generative AI · Prompt Engineering · RAG concepts
+Data Engineering · Data Governance · Analytics
+
+Cloud & Platforms
+Azure · AWS Bedrock · Supabase · Palantir (Skywise, EBAM)
+Streamlit · Reflex · FastAPI
+
+## Currently exploring
+Agentic AI systems (ReAct, tool orchestration)
+Graph-based AI (Neo4j)
+Scalable AI architectures for production environments
+
+## A bit more about me
+I’ve worked across industry, research, and international environments, which helps me connect technical solutions with real business needs.
+Outside of work, I’m passionate about sports — I regularly run long distances (half marathon / 21k) and practice CrossFit
