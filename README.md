@@ -46,7 +46,7 @@ Cloud & Platforms
 Azure · AWS Bedrock · Supabase · Palantir (Skywise, EBAM)
 Streamlit · Reflex · FastAPI
 
-## Currently exploring
+#### Currently exploring
 Agentic AI systems (ReAct, tool orchestration)
 Graph-based AI (Neo4j)
 Scalable AI architectures for production environments
