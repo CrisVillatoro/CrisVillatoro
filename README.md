@@ -13,9 +13,10 @@ Recently, my work has focused on:
 - Developing governance-ready insights and preparing migration strategies to Skywise, including future AI-driven governance approaches
 
 My role sits at the intersection of:
-Data engineering
-Analytics
-AI applications
+Data engineering,
+Analytics,
+AI applications,
+Data Governance,
 and business impact
 
 ## AI & Engineering Focus
