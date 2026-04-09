@@ -22,15 +22,15 @@ and business impact
 ## AI & Engineering Focus
 I’m particularly interested in Generative AI, LLMs, and agentic systems, and I actively build applications to explore how these technologies can be used in real-world scenarios.
 
-# Highlighted Projects
-## RFP Agent (Production Application)
+### Highlighted Projects
+#### RFP Agent (Production Application)
 AI-driven system to automate the discovery, analysis, and evaluation of Request for Proposals.
 Multi-tool pipeline: web scraping (Selenium, BeautifulSoup), document retrieval (Azure AI Search), and LLM-based analysis (AWS Bedrock)
 Built with Python (FastAPI + Reflex) and deployed with cloud services
 Supports summarization, bid/no-bid decision workflows, and automated notifications
 Designed as a scalable, production-ready system with real business impact
 
-## Omdena Projects
+#### Omdena Projects
 Urban Green Space Segmentation (U-Net, satellite imagery)
 Precision Agriculture (geospatial + ML)
 
